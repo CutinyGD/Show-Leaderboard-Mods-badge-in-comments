@@ -1,7 +1,7 @@
 4y4
 Ashkar
 AutoNick
-Bertifys
+Bert
 CheckSteam
 Cool
 Devilmine
@@ -9,5 +9,5 @@ mbed
 Pepper360
 talia
 ViPriN
-YourLocalGoat
+Wessel
 zipi
